@@ -29,6 +29,8 @@ url: "https://alligatorpad.github.io" # the base hostname & protocol for your si
 twitter_username: jekyllrb
 github_username:  jekyll
 
+favicon_ico: "/assets/images/favicon.ico"
+
 # Build settings
 theme: minima
 plugins:
