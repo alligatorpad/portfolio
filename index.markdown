@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #layout: home
-layout: splash
+layout: collection
 
 defaults:
   # _pages
@@ -16,7 +16,7 @@ defaults:
 
   # _experience
   - scope:
-      path: "experience"
+      path: ""
       type: experience
     values:
       layout: "experience"
