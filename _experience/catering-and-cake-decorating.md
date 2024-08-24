@@ -1,10 +1,9 @@
 ---
-title: "Floral"
+title: "Catering & Cake Decorating"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 share: false
 header:
-  image: /assets/images/unsplash-gallery-image-4.jpg
-  teaser: /assets/images/unsplash-gallery-image-4-th.jpg
+  teaser: /assets/images/foo-bar-identity-th.jpg
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
