@@ -1,23 +1,26 @@
 ---
 title: "Floral"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Growing & Arranging Flowers"
 share: false
 header:
-  image: /assets/images/unsplash-gallery-image-4.jpg
-  teaser: /assets/images/unsplash-gallery-image-4-th.jpg
+  image: /assets/images/floral-1-hero.jpg
+  teaser: /assets/images/floral-1-th.jpg
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "This is where you describe image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "This is where you describe image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "This is where you describe image 3"
+  - url: /assets/images/floral-4.jpg
+    image_path: assets/images/floral-4.jpg
+    alt: "Floral 1"
+  - url: /assets/images/floral-2.jpg
+    image_path: assets/images/floral-2.jpg
+    alt: "Floral 2"
+  - url: /assets/images/floral-7.jpg
+    image_path: assets/images/floral-7.jpg
+    alt: "Floral 7"
+  - url: /assets/images/floral-6.jpg
+    image_path: assets/images/floral-6.jpg
+    alt: "Floral 6"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+I love flowers, yayyyy
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 

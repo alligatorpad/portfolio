@@ -1,6 +1,6 @@
 ---
 title: "Costume & Makeup"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Cosplays & Face Painting"
 share: false
 header:
   teaser: /assets/images/unsplash-gallery-image-2-th.jpg

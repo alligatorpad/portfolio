@@ -1,6 +1,6 @@
 ---
 title: "Music"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Vocals, Keys, Bass & Guitar in Group Band"
 share: false
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg

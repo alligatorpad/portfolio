@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Online Resume
+title: Welcome to my Online Resumé
 
 layout: experience
 permalink: /
@@ -9,4 +9,4 @@ classes: wide
 
 ---
 
-This is where I'll tell you about the things I do.
+I am Allie and I'm super awesome
