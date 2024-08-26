@@ -1,20 +1,32 @@
 ---
 title: "Music"
-excerpt: "Vocals, Keys, Bass & Guitar in Group Band"
+excerpt: "Vocals, Keys, Bass, and Guitar"
 share: false
 header:
-  image: /assets/images/unsplash-gallery-image-2.jpg
-  teaser: /assets/images/unsplash-gallery-image-2-th.jpg
+  image: /assets/images/music-6-hero.jpg
+  teaser: /assets/images/music-1-th.jpg
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "This is where you describe image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "This is where you describe image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "This is where you describe image 3"
+  - url: /assets/images/music-7.jpg
+    image_path: assets/images/music-7.jpg
+    alt: "music 7"
+  - url: /assets/images/music-6.jpg
+    image_path: assets/images/music-6.jpg
+    alt: "music 6"
+  - url: /assets/images/music-2.jpg
+    image_path: assets/images/music-2.jpg
+    alt: "music 2"
+  - url: /assets/images/music-3.jpg
+    image_path: assets/images/music-3.jpg
+    alt: "music 3"
+  - url: /assets/images/music-1.jpg
+    image_path: assets/images/music-1.jpg
+    alt: "music 1"
+  - url: /assets/images/music-4.jpg
+    image_path: assets/images/music-4.jpg
+    alt: "music 4"
+  - url: /assets/images/music-5.jpg
+    image_path: assets/images/music-5.jpg
+    alt: "music 5"
 ---
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.

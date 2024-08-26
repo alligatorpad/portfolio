@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Online Resumé
+title: Welcome to my Online Résumé
 
 layout: experience
 permalink: /
