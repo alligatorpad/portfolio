@@ -20,4 +20,4 @@ gallery:
     alt: "food 3"
 ---
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Click the photos above to see a closer version." %}
