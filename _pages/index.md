@@ -8,5 +8,3 @@ entries_layout: grid
 classes: wide
 
 ---
-
-Hi, I'm Allie!

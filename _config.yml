@@ -80,7 +80,7 @@ include:
 author:
   name   : "Allie Padget"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Allie"
+  bio    : "Hi, I'm Allie!"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
