@@ -9,4 +9,4 @@ classes: wide
 
 ---
 
-I am Allie and I'm super awesome
+Hi, I'm Allie!
