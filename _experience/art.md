@@ -53,5 +53,6 @@ gallery:
     alt: "art 15"
 ---
 
+Art is a very big passion of mine.  I've entered myself into competitions and showcases.  I even won artist of the year, where one student from each school in the district is chosen to represent as best artist.  We showcased our art like a gallery walk so families of those students can admire the pieces.  I also took a two-week long camp at an art college and took college level classes.  This not only gave me the opportunity to know some professors and students, but to experience college life, living in the dorms with a roommate.
 
 {% include gallery caption="Click the photos above to see a closer version." %}

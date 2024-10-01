@@ -9,4 +9,4 @@ classes: wide
 
 ---
 
-Hi, I'm Allie!
+Here you will find a showcase of my hobbies and interests. Click the pictures or titles below to learn more about me and my skillsets.

@@ -20,4 +20,6 @@ gallery:
     alt: "food 3"
 ---
 
+I have always loved cooking and baking.  Every Thanksgiving and Christmas I bring a homemade family-favorite dish. On Thanksgiving, I usually bring pies... and on Christmas, I bring more pies!  I tend to be more free-spirited with cooking so if I read a recipe, I'll experiment with substituting an ingredient. My favorite dishes to cook are mainly Thai food.  I make pad thai, rama chicken, and homemade ramen. Homemade noodles are my specialty, whether it's Italian, Asian, etc.
+
 {% include gallery caption="Click the photos above to see a closer version." %}

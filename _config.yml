@@ -80,14 +80,7 @@ include:
 author:
   name   : "Allie Padget"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Allie!"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/alligatorpad"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/a11ie__"
+  bio    : "I am a dedicated student and worker with a strong passion for various forms of art.  With a diverse skillset, I thrive in work places where innovation and collaboration motivate my success.  Committed to bringing ideas to life, I continuously seek opportunities to contribute to inspiring projects."
   location: "Kansas City, MO"
 
 defaults:

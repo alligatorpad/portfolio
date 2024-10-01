@@ -29,5 +29,6 @@ gallery:
     alt: "Zinnias I grew myself from seeds"
 ---
 
+I have a deep passion for floral design.  So much so, I want to go to school for horticulture.  I’ve talked to many colleges about studying plants and they tell me all about the science & data side of horticulture.  I love biology, and collecting data for projects or experiments were my favorite part of those kinds of classes.  As for my career experience, I have held two floral jobs, which were amazing for me to learn more about working with flowers.  I also learned how to work with customers and how to set up arrangements at professional wedding venues.
 
 {% include gallery caption="Click the photos above to see a closer version." %}
